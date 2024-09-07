@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-How to use basic grid properities. 
+How to use basic grid properities. Aligning items with grid area properity and using 'max-width' and 'min-width' properities to make my project more responsive.
 
 ### Continued development
 
@@ -58,6 +58,7 @@ I need to get more comfortable using grid for responsive designs.
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com/css/css_rwd_grid.asp) - This helped me for using grid. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.w3schools.com/cssref/pr_grid-area.php) - This helped me for aligning cards as requested. I learned howq to use grid areas properity.
 
 
 ## Author
